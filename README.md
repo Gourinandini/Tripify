@@ -108,17 +108,8 @@ Additional Demos
 [Add any extra demo materials/links]
 
 ### Team Contributions
-Anjaly ES: 
-CSS
+Anjaly ES: CSS,Figma
 
-Figma
+Anna Mathews:  frontend development
 
-Anna Mathews:
-
-frontend development
-
-Gourinandini Sunil: 
-
-Backend development
-
-README.md
+Gourinandini Sunil:  Backend development,README.md
