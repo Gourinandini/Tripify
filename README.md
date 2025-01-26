@@ -53,7 +53,7 @@ Git (Version control)
 
 ### Installation
 commands
-git clone https://github.com/yourusername/tripify.git
+git clone https://github.com/Gourinandini/Tripify.git
 cd tripify
 pip install -r requirements.txt
 pip install flask
