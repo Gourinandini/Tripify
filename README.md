@@ -66,12 +66,20 @@ python run.py
 ## Project Documentation
 For Software:
 
-Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+HOMEPAGE: 
+![landingpage](https://github.com/user-attachments/assets/d0ff6ddc-8225-422a-9539-a9fd7b7d677d)
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+SEARCH PAGE:
+![list](https://github.com/user-attachments/assets/1992bc28-740d-44d1-adde-5b0cced840b5)
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+DISPLAY PAGE:
+![display](https://github.com/user-attachments/assets/a69cdfde-16d0-4082-836d-38035189e7c7)
+
+ABOUT PAGE:
+![about](https://github.com/user-attachments/assets/41520a59-497b-4bf1-b298-05b2eb991e61)
+
+CONTACT PAGE:
+![contact](https://github.com/user-attachments/assets/ba2aac99-c970-41fb-9a64-8abac503cad6)
 
 Diagrams
 ![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
