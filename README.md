@@ -110,7 +110,8 @@ Build Photos
 
 Project Demo
 Video
-[Add your demo video link here] Explain what the video demonstrates
+https://www.loom.com/share/0cab519c521744bdbfcd82a52f2ceed0?sid=c64f2b58-aeb2-449d-9577-98111a6dca46 
+Flow of Tripify
 
 Additional Demos
 [Add any extra demo materials/links]
