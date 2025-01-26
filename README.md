@@ -13,10 +13,7 @@ Hosted Project Link
 
 Project Description
 
-A Traveler Planner acts as a collaborative tool that helps individuals or groups plan, organize, and optimize their travel experiences.
-It facilitates connections between travelers, enabling them to share tips, itineraries, experiences, and resources. 
-These platforms often integrate social networking features,making them a hub for discovering like-minded travelers, planning trips, 
-and exploring destinations in a more informed and connected way.
+Tripify is a web application specifically designed for travelers interested in exploring Kerala, India. The platform allows users to select a district from the state and receive detailed recommendations for popular tourist spots, nearby hotels, and food options within their selected district. The application aims to make trip planning effortless and more personalized, providing a seamless travel experience for both locals and tourists.
 
 The Problem statement
 Travelers often face challenges in planning trips, including a lack of reliable information, difficulty 
