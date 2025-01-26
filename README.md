@@ -25,33 +25,33 @@ Tripify simplifies the travel planning process by offering a web platform where 
 ## Technical Details
 Technologies/Components Used For Software:
 
-Languages used:
+### Languages used:
 
 Python(flask)
 
 HTML
 
 CSS
-Frameworks used:
+### Frameworks used:
 
 Flask (Web Framework)
 
 Flask
-Libraries used:
+### Libraries used:
 
 numpy
 
 pandas
 
-Tools used:
+### Tools used:
 
 Visual Studio Code (IDE)
 
 Git (Version control)
 
-Implementation For Software:
+## Implementation For Software:
 
-Installation
+### Installation
 commands
 git clone https://github.com/yourusername/tripify.git
 cd tripify
@@ -59,11 +59,11 @@ pip install -r requirements.txt
 pip install flask
 pip install pandas
 
-Run
-[commands]
+### Run
+commands
 python run.py
 
-Project Documentation
+## Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
@@ -99,7 +99,18 @@ Video
 Additional Demos
 [Add any extra demo materials/links]
 
-Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+### Team Contributions
+Anjaly ES: 
+CSS
+
+Figma
+
+Anna Mathews:
+
+frontend development
+
+Gourinandini Sunil: 
+
+Backend development
+
+README.md
