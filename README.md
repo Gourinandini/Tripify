@@ -27,43 +27,51 @@ Technologies/Components Used For Software:
 
 ### Languages used:
 
-Python(flask)
+1.Python(flask)
 
-HTML
+2.HTML
 
-CSS
+3.CSS
 ### Frameworks used:
 
-Flask (Web Framework)
+1.Flask (Web Framework)
 
-Flask
 ### Libraries used:
 
-numpy
+1.numpy
 
-pandas
+2.pandas
 
 ### Tools used:
 
-Visual Studio Code (IDE)
+1.Visual Studio Code (IDE)
 
-Git (Version control)
+2.Git (Version control)
 
 ## Implementation For Software:
 
 ### Installation
-commands
-git clone https://github.com/Gourinandini/Tripify.git
-cd tripify
-pip install -r requirements.txt
-pip install flask
-pip install pandas
+
+#### commands
+
+1.git clone https://github.com/Gourinandini/Tripify.git
+
+2.cd tripify
+
+3.pip install -r requirements.txt
+
+4.pip install flask
+
+5.pip install pandas
 
 ### Run
-commands
+
+#### commands
+
 python run.py
 
 ## Project Documentation
+
 For Software:
 
 HOMEPAGE: 
