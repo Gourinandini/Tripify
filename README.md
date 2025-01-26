@@ -71,7 +71,7 @@ Build Photos
 ![Components](Add photo of your components here) List out all components shown
 
 ![Build](Add photos of build process here) Explain the build steps
-
+77
 ![Final](Add photo of final product here) Explain the final build
 
 Project Demo
