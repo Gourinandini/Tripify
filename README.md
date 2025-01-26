@@ -1,6 +1,6 @@
-TRIPIFY
+# TRIPIFY
 
-Basic Details
+## Basic Details
 
 Team Name: Bugvenchers
 Team Members
@@ -8,7 +8,7 @@ Member 1: Anjaly E S- Muthoot Institute Of Technology And Science,Varikoli
 Member 2: Gourinandini Sunil -  Muthoot Institute Of Technology And Science,Varikoli
 Member 3: Anna Mathews -  Muthoot Institute Of Technology And Science,Varikoli
 
-Hosted Project Link
+### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
@@ -25,18 +25,43 @@ Tripify simplifies the travel planning process by offering a web platform where 
 ## Technical Details
 Technologies/Components Used For Software:
 
-[Languages used]:HTML,CSS
-[Frameworks used]:Flask
-[Libraries used]:numpy,pandas
-[Tools used]:
+Languages used:
+
+Python(flask)
+
+HTML
+
+CSS
+Frameworks used:
+
+Flask (Web Framework)
+
+Flask
+Libraries used:
+
+numpy
+
+pandas
+
+Tools used:
+
+Visual Studio Code (IDE)
+
+Git (Version control)
 
 Implementation For Software:
 
 Installation
-[commands]
+commands
+git clone https://github.com/yourusername/tripify.git
+cd tripify
+pip install -r requirements.txt
+pip install flask
+pip install pandas
 
 Run
 [commands]
+python run.py
 
 Project Documentation
 For Software:
