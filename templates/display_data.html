@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>District Data</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9fb;
+            background: url('https://wearetravelgirls.com/wp-content/uploads/2018/01/kovalam-beach-kerala.jpg') no-repeat center center fixed;        
+            background-size: cover
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 1rem;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 1rem;
+        }
+
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1rem;
+        }
+
+        .card {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 1rem;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+        }
+
+        .card-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+
+        .card-details {
+            color: #555;
+            line-height: 1.5;
+        }
+
+        .card-details em {
+            font-style: italic;
+            color: #888;
+        }
+
+        .no-data {
+            text-align: center;
+            color: red;
+            font-size: 1.2rem;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>District Information</h1>
+
+        {% if data %}
+            <div class="cards">
+                {% for item in data %}
+                    <div class="card">
+                        <div class="card-title">{{ item['Famous Spot'] }}</div>
+                        <div class="card-details">
+                            <p><em>Nearby Hotels:</em> {{ item['Nearby Hotels'] }}</p>
+                            <p><em>Nearby Food Spots:</em> {{ item['Nearby Food Spots'] }}</p>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        {% else %}
+            <div class="no-data">
+                <p>{{ message }}</p>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>

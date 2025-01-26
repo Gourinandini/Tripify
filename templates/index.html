@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Tripify - Discover the World With Us</title>
+    <style>
+        /* Your existing styles */
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            height: 100vh;
+            position: relative;
+            color: #fff;
+            background: url('https://e1.pxfuel.com/desktop-wallpaper/956/138/desktop-wallpaper-festive-colors-cardiff-california1-parachute.jpg') no-repeat center center;
+            background-size: cover;
+        }
+
+        header nav {
+            display: flex;
+            justify-content: space-between;
+            padding: 1rem 2rem;
+            position: absolute;
+            width: 100%;
+            top: 0;
+        }
+
+        header nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+
+        header nav a:hover {
+            text-decoration: underline;
+        }
+
+        .search-bar {
+            display: flex;
+            align-items: center;
+            background: white;
+            padding: 0.3rem;
+            border-radius: 20px;
+        }
+
+        .search-bar input {
+            border: none;
+            outline: none;
+            padding: 0.5rem;
+            border-radius: 20px;
+            margin-right: 10px;
+        }
+
+        header .content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            padding: 1rem 2rem;
+            background: rgba(0, 0, 0, 0.5);
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        header .logo {
+            font-size: 2rem; /* Adjust the size as needed */
+            font-weight: bold; /* Make it bold if you want */
+            color: white; /* Make sure it's visible on the background */
+        }
+        
+        header .content h1 {
+            font-size: 3rem;
+            margin: 0.5rem 0;
+        }
+
+        header .content p {
+            font-size: 1.2rem;
+            margin-bottom: 2rem;
+        }
+
+        .btn {
+            background-color: #FF6347;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            font-size: 1rem;
+            border-radius: 25px;
+            cursor: pointer;
+        }
+
+        .btn:hover {
+            background-color: #FF4500;
+        }
+        .logo {
+            font-family:"Erica One", regular;
+            font-size: 4rem; /* Adjust the size as needed */
+            font-weight: 400;
+            font-style: normal;
+            color: white; /* Make sure it's visible */
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="logo">TRIPIFY</div>
+            <div class="menu">
+                <a href="/about">About</a>
+                <a href="/contact">Contact</a>
+            </div>
+            <div class="search-bar">
+                <input type="text" placeholder="Search">
+                <button type="submit">&#128269;</button>
+            </div>
+        </nav>
+        <div class="content">
+            <h1>Discover The World With Us</h1>
+            <p>Welcome to Tripify! Easily plan your trip with friends, from flights and hotels to food and activities, all within your budget. Let us help you create the perfect itinerary for your next adventure!</p>
+            <a class="btn" href="/booknow">Book Now</a>
+        </div>
+    </header>
+</body>
+
+</html>
