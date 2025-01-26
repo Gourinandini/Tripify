@@ -9,8 +9,7 @@ Member 2: Gourinandini Sunil -  Muthoot Institute Of Technology And Science,Vari
 Member 3: Anna Mathews -  Muthoot Institute Of Technology And Science,Varikoli
 
 ### Hosted Project Link
-[mention your project hosted project link here]
-
+https://tripify-1.onrender.com/
 ### Project Description
 
 Tripify is a web application specifically designed for travelers interested in exploring Kerala, India. The platform allows users to select a district from the state and receive detailed recommendations for popular tourist spots, nearby hotels, and food options within their selected district. The application aims to make trip planning effortless and more personalized, providing a seamless travel experience for both locals and tourists.
